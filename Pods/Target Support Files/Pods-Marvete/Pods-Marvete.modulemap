@@ -1,0 +1,6 @@
+framework module Pods_Marvete {
+  umbrella header "Pods-Marvete-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Marvete_MarveteUITests {
+  umbrella header "Pods-Marvete-MarveteUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
